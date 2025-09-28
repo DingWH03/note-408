@@ -2,7 +2,7 @@
 authors = ["DingVero"]
 language = "zh"
 src = "src"
-title = "考研408笔记"
+title = "Note of 408"
 description = ""
 
 [build]
